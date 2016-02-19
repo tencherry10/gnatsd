@@ -1,0 +1,9 @@
+{
+  "name": "gnatsd",
+  "version": "0.7.2",
+  "repo": "tencherry10/gnatsd",
+  "description": "gnatsd bundle for clib",
+  "keywords": ["networking", "queues", "messaging queues"],
+  "license": "MIT",
+  "install": "make install"
+}
